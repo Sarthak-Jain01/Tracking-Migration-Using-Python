@@ -1,3 +1,5 @@
+Tracking Migration Using Python
+
 1. Introduction
 With the growing technology, it is now possible to manufacture small GPS devices that work on the principle of solar power energy, 
 so that we don’t need to change batteries and use it back to track migration patterns of animals. 
@@ -35,3 +37,12 @@ We want to make a system that will give 24×7 service by providing the informati
 •	Project is simple and easy.
   Limitations of Tracking System using Python:~
 •	Once your tracker is lost, you can’t track back the animal. 
+
+4. Python Libraries Resource Links/Refrence:
+
+•	https://pandas.pydata.org/
+•	https://numpy.org/
+•	https://matplotlib.org/
+•	https://pypi.org/project/Cartopy/
+
+
